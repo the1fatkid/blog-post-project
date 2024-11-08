@@ -41,6 +41,6 @@ To get a local copy of the project up and running, follow these steps:
     ```
 To view the blog page, simply open the index.html file in any web browser.    
 
-##Course Credit
+## Course Credit
 This project was developed as part of the "HTML & CSS Bootcamp" course by Colt Steele on Udemy.
     
